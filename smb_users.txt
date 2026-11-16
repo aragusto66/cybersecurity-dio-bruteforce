@@ -1,0 +1,6 @@
+user
+mnsfadmin
+server
+msfadmin
+admin
+joao
